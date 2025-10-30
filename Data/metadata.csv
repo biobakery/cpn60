@@ -1,0 +1,21 @@
+sample_ID,type,sort,library
+S11,stool,stool1,DNA
+S12,stool,stool1,RNA (cDNA)
+S13,stool,stool2,DNA
+S14,stool,stool2,RNA (cDNA)
+S15,keyboard,keyboard1,DNA
+S16,keyboard,keyboard1,RNA (cDNA)
+S17,keyboard,keyboard2,DNA
+S18,keyboard,keyboard2,RNA (cDNA)
+S19,blank,blank,DNA
+S20,blank,blank,RNA (cDNA)
+S1,stool,stool1,DNA
+S2,stool,stool1,RNA (cDNA)
+S3,stool,stool2,DNA
+S4,stool,stool2,RNA (cDNA)
+S5,keyboard,keyboard1,DNA
+S6,keyboard,keyboard1,RNA (cDNA)
+S7,keyboard,keyboard2,DNA
+S8,keyboard,keyboard2,RNA (cDNA)
+S9,blank,blank,DNA
+S10,blank,blank,RNA (cDNA)
