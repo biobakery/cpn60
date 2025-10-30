@@ -1,0 +1,50 @@
+RA	Sort	P
+0.004340915	Original	Ascomycota
+0.00507459	Original	Planctomycetes
+0.005747126	Original	X94
+0.005869406	Original	Tenericutes
+0.016568843	Original	Chlamydiae
+0.018525312	Original	Cyanobacteria
+0.022010271	Original	Spirochaetes
+0.060283688	Original	Bacteroidetes
+0.193873808	Original	Firmicutes
+0.20035461	Original	Actinobacteria
+0.420946442	Original	Proteobacteria
+0.046404989	Original	Others
+0.004714377	Nucleotides	Crenarchaeota
+0.005606286	Nucleotides	Chlamydiae
+0.007050329	Nucleotides	Eukaryota_unclassified
+0.011764706	Nucleotides	Spirochaetes
+0.026629858	Nucleotides	Cyanobacteria
+0.029687832	Nucleotides	Euryarchaeota
+0.036992992	Nucleotides	Ascomycota
+0.07844553	Nucleotides	Bacteroidetes
+0.176088341	Nucleotides	Firmicutes
+0.188702485	Nucleotides	Actinobacteria
+0.37035464	Nucleotides	Proteobacteria
+0.063962625	Nucleotides	Others
+0.015167001	Protein ID	Cyanobacteria
+0.017047545	Protein ID	Arthropoda
+0.017906055	Protein ID	Chordata
+0.021503618	Protein ID	Basidiomycota
+0.0250603	Protein ID	Euryarchaeota
+0.028289931	Protein ID	Bacteroidetes
+0.035525939	Protein ID	Bacteria candidate
+0.046686562	Protein ID	Actinobacteria
+0.058255999	Protein ID	Firmicutes
+0.060627121	Protein ID	Ascomycota
+0.123012142	Protein ID	Proteobacteria
+0.368259679	Protein ID	Unknown
+0.182658109	Protein ID	Others
+0.024008283	Protein ID (Known)	Cyanobacteria
+0.026985051	Protein ID (Known)	Arthropoda
+0.028344011	Protein ID (Known)	Chordata
+0.034038698	Protein ID (Known)	Basidiomycota
+0.039668673	Protein ID (Known)	Euryarchaeota
+0.044780949	Protein ID (Known)	Bacteroidetes
+0.056235035	Protein ID (Known)	Bacteria candidate
+0.073901508	Protein ID (Known)	Actinobacteria
+0.092215104	Protein ID (Known)	Firmicutes
+0.09596842	Protein ID (Known)	Ascomycota
+0.194719472	Protein ID (Known)	Proteobacteria
+0.289134796	Protein ID (Known)	Others
